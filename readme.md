@@ -3,5 +3,5 @@ suggestions for films according to enterd plot comparing the results both with a
 ### Installing dependencies
 for installing dependencies run this command :
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
